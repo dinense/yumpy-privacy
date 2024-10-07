@@ -12,13 +12,15 @@ Yumpy is a mobile application developed by Dinense UG that allows users to view 
 
 **No personal data is collected.**
 
-- **Location Information**: Yumpy requests access to your device’s location services to display nearby restaurants on a map. Your location data is used **locally** on your device to show you relevant restaurant information. We do not store or transmit your location data to our servers or third parties.
+- **Location Information**: Yumpy requests access to your device’s location services to display nearby restaurants on a map. When using the app to search for nearby restaurants, your location data is **temporarily sent to our servers** to identify relevant places. However, this location data is kept **completely anonymous** and **is not stored** on our servers after the search is completed.
   
 - **Non-Personal Information**: We may collect non-personally identifiable information such as app usage statistics (e.g., how often the app is used, what features are accessed). This information is collected to improve the performance of the app and enhance the user experience. **No user-specific or identifiable information** is linked to this data.
 
 ## 3. How We Use the Information
 
-Since Yumpy does not collect personal data, we do not use your information for any advertising or marketing purposes. Any non-personal usage data that we collect is used solely for the purpose of improving the app's performance and functionality.
+- **Location Data**: Your location data is used solely for the purpose of identifying restaurants near your current location. The location data is anonymized, sent temporarily to our servers, and discarded after the search is completed. **We do not store, share, or retain your location information**.
+  
+- **Non-Personal Usage Data**: Any non-personal usage data that we collect is used to improve the app's performance and functionality. This data does not include any personal identifiers.
 
 ## 4. Data Sharing and Disclosure
 
@@ -28,9 +30,9 @@ As Yumpy does not collect personal information, there is no data that we can sha
 
 ## 5. Third-Party Services
 
-Yumpy may integrate third-party services such as Google Maps to display the map. These services may collect anonymized data to improve their own services, such as map accuracy or service performance. We recommend reviewing the privacy policies of any third-party service providers used within the app.
+Yumpy may integrate third-party services such as Google Maps to display restaurant locations. These services may collect anonymized data to improve their own services, such as map accuracy or service performance. We recommend reviewing the privacy policies of any third-party service providers used within the app.
 
-- Google Maps Privacy Policy: _https://policies.google.com/privacy_
+- [Google Maps Privacy Policy](https://policies.google.com/privacy)
 
 ## 6. Your Consent
 
@@ -51,6 +53,7 @@ We may update this Privacy Policy from time to time to reflect changes in our pr
 ## 10. Contact Us
 
 If you have any questions about this Privacy Policy or how we handle your data, feel free to contact us:
+
 
 **Dinense**  
 Email: privacy@dinense.com
