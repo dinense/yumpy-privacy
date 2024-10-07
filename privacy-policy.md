@@ -1,6 +1,6 @@
 # Privacy Policy
 
-_Last updated: September 2024_
+_Last updated: October 2024_
 
 At Dinense UG, we are committed to protecting your privacy. This Privacy Policy outlines how we handle your information when you use our mobile application, **Yumpy**. Please read this policy carefully to understand our practices regarding your data.
 
